@@ -2397,8 +2397,8 @@ body {
   }
 }
 .cid-r99xGVdw8M {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 60px;
+  padding-bottom: 75px;
   background-color: #b2ccd2;
 }
 .cid-r99xGVdw8M .content-slider {
@@ -2656,7 +2656,7 @@ body {
   background: transparent !important;
 }
 .cid-r99xGVdw8M .image_wrapper {
-  height: 400px;
+  height: 580px;
   width: 100%;
   position: relative;
   display: inline-block;
@@ -2669,7 +2669,13 @@ body {
   text-align: center;
 }
 .cid-r99xGVdw8M .content-slider-wrap {
-  width: 60%;
+  width: 91%;
+}
+.cid-r99xGVdw8M H2 {
+  color: #ffffff;
+}
+.cid-r99xGVdw8M P {
+  color: #ffffff;
 }
 .cid-r9181pq6kG {
   padding-top: 60px;
