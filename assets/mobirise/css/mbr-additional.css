@@ -1903,6 +1903,20 @@ body {
 .cid-r8OOLum6SM .mbr-section-btn I {
   color: #232323;
 }
+.cid-rck3Yp9OXP {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #149dcc;
+  background: linear-gradient(0deg, #149dcc, #ffffff);
+}
+.cid-rck3Yp9OXP .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rck3Yp9OXP .video-block {
+    width: 100% !important;
+  }
+}
 .cid-r8ZxOqsfyM {
   padding-top: 90px;
   padding-bottom: 90px;
